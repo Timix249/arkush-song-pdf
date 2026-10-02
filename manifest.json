@@ -1,0 +1,10 @@
+{
+  "name": "Аркуш — пісня до друку",
+  "short_name": "Аркуш",
+  "description": "Оформлення текстів пісень у структурований аркуш для друку.",
+  "start_url": "./dist/index.html",
+  "display": "standalone",
+  "theme_color": "#172236",
+  "background_color": "#f4f7fb",
+  "icons": []
+}
